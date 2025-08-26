@@ -20,16 +20,8 @@
 - 🧭 **Accessibility First**  
   Designed to empower visually impaired users to better navigate and understand their environment.
 
----
 
-## 📱 Demo
-
-<p align="center">
-  <!-- Replace with your actual demo gif / screenshot -->
-  <img src="demo.gif" alt="Eyeris demo" width="300">
-</p>
-
----
+## 📱 [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7209814489251086336/)
 
 ## 🚀 Getting Started
 
